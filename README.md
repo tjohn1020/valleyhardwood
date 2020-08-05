@@ -1,1 +1,1 @@
-TinDog Starting Files
+Designed by T. Johnson
