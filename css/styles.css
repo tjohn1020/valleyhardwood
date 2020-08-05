@@ -1,9 +1,10 @@
+
 body {
   font-family: "Montserrat";
 }
 
 #title {
-  background-color: #27496d
+  background-color: #84a9ac;
 
 }
 
@@ -89,19 +90,19 @@ padding: 7% 15%;
 }
 
 .icon {
-  color:#00909e;
+  color:#3b6978;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color:#27496d;
+  color:#84a9ac;
 }
 
 /* Testimonials */
 
 #testimonials {
   text-align: center;
-  background-color: #00909e;
+  background-color: #3b6978;
   color:#fff;
 }
 
@@ -116,7 +117,7 @@ padding: 7% 15%;
 }
 
 #press {
-  background-color: #00909e;
+  background-color: #3b6978;
   text-align: center;
   padding-bottom: 3%;
 }
