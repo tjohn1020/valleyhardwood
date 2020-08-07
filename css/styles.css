@@ -1,10 +1,9 @@
-
 body {
   font-family: "Montserrat";
 }
 
 #title {
-  background-color: #84a9ac;
+  background-color: #fa7d09;
 
 }
 
@@ -36,7 +35,7 @@ h3 {
 }
 
 p {
-  color: #8f8f8f;
+  color: #5e6f64;
 }
 
 /* Navigation Bar */
@@ -90,19 +89,19 @@ padding: 7% 15%;
 }
 
 .icon {
-  color:#3b6978;
+  color:#4a3f35;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color:#84a9ac;
+  color:#fa7d09;
 }
 
 /* Testimonials */
 
 #testimonials {
   text-align: center;
-  background-color: #3b6978;
+  background-color: #4a3f35;
   color:#fff;
 }
 
@@ -117,7 +116,7 @@ padding: 7% 15%;
 }
 
 #press {
-  background-color: #3b6978;
+  background-color: #4a3f35;
   text-align: center;
   padding-bottom: 3%;
 }
