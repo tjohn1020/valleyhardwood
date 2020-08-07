@@ -8,14 +8,14 @@ body {
 }
 
 .container-fluid {
-  padding: 3% 15%
+  padding: 3% 15% 10%;
 
 }
 
 h1 {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  font-size: 2.75rem;
+  font-size: 3rem;
   line-height: 1.5;
   color:#fff;
 }
@@ -61,6 +61,9 @@ p {
   font-style: 2.5rem;
 
 }
+.dropdown-menu {
+
+}
 
 /* Navbar Buttons */
 
@@ -73,6 +76,8 @@ p {
   .title-image {
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
+    z-index: 1;
   }
 
 
@@ -81,6 +86,10 @@ p {
 
 #features {
 padding: 7% 15%;
+background-color: #fff;
+position: relative;
+z-index: 2;
+
 }
 
 .feature-box {
