@@ -115,6 +115,8 @@ padding: 7% 15%;
   padding: 7% 15%;
 }
 
+/* Press */
+
 #press {
   background-color: #5e6f64;
   text-align: center;
@@ -124,6 +126,10 @@ padding: 7% 15%;
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+.brands-we-trust {
+  color:#2f2519;
 }
 
 /* Pricing Section */
