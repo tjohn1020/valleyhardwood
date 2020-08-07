@@ -74,7 +74,7 @@ p {
 
 /* Title Image */
   .title-image {
-    width: 75%;
+    width: 85%;
     transform: rotate(25deg);
     position: absolute;
     z-index: 1;
