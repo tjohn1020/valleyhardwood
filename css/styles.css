@@ -4,6 +4,7 @@ body {
 
 #title {
   background-color: #fa7d09;
+  padding-bottom: 50px;
 
 }
 
@@ -13,9 +14,10 @@ body {
 }
 
 h1 {
+  padding-top: 120px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2.75rem;
   line-height: 1.5;
   color:#fff;
 }
@@ -39,15 +41,21 @@ p {
 }
 
 /* Navigation Bar */
+.brand-image{
+  width: 50%;
+}
+.navbar-left {
+  height: 50%;
+}
 
 .navbar {
-  padding: 0 0 4.5rem;
+  padding:  0 0 4.5rem;
 
 }
 
 .navbar-brand {
   font-family: "Ubuntu";
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   font-weight: bold;
 
 }
@@ -62,7 +70,6 @@ p {
 
 }
 .dropdown-menu {
-
 }
 
 /* Navbar Buttons */
