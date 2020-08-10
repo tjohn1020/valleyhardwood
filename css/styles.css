@@ -49,7 +49,7 @@ p {
 }
 
 .navbar {
-  padding:  0 0 1.5rem;
+  padding:  0 0 1rem;
 
 }
 
@@ -176,6 +176,6 @@ text-align: center;
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 }
