@@ -165,16 +165,13 @@ text-align: center;
 }
 
 @media (max-width: 1028px){
-
   #title {
     text-align: center;
   }
-
   .title-image {
     position: static;
-    transform: rotate(0)
+    transform: rotate(0);
 }
-
 h2 {
   font-size: 1.5rem;
 }
